@@ -9,7 +9,7 @@
 
 ## 🎥 Live Demo
 
-🔗 Demo Link: [Your Deployment URL]
+🔗 Demo Link: https://medilinkai-qfwq52bjhd9fxb3rzzahgx.streamlit.app/
 
 ## 🚀 Features
 ### 📝 Smart Scribe
