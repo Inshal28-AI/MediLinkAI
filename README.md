@@ -1,7 +1,9 @@
 # 🩺 MediLink AI
 
 ## WHO-Grounded Infectious Disease Clinical Co-Pilot
-MediLink AI is an AI-powered bilingual(English & Urdu) clinical decision support platform designed to assist healthcare professionals with infectious disease assessment, clinical documentation, antimicrobial stewardship, and evidence-based decision making using WHO guidelines.
+
+**MediLink AI** is an AI-powered bilingual(English & Urdu) clinical decision support platform designed to assist healthcare professionals with infectious disease assessment, clinical documentation, antimicrobial stewardship, and evidence-based decision making using WHO guidelines.
+
 ---
 ⚠️ This system is intended for educational, research, and clinical support purposes only. It does not replace professional medical judgment.
 
@@ -151,15 +153,16 @@ MediLinkAI_API_KEY=gsk_xxxxxxxxxxxxxxxxxxxxx
 ## 🗂 Knowledge Base Setup
 
 Place the FAISS database folder inside:
-
+```
 data/
 └── med_pathogen_brain/
-
+```
 Expected files:
-
+```
 med_pathogen_brain/
 ├── index.faiss
 └── index.pkl
+```
 ## 🌐 Run Application
 ```bash
 streamlit run app.py
