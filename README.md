@@ -208,13 +208,13 @@ The platform does NOT:
 
 | English Interface | English(cont.) Interface |
 |------------------|----------------|
-| ![](assets/smart_scribe.png) | ![](assets/smart_scribe(cont).png) |
+| ![](assets/smart_scribe.png) | ![](assets/smart_scribe_cont..png) |
 
 ### Smart Scribe (Urdu)
 
 | Urdu Interface | Urdu(cont.) Interface |
 |------------------|----------------|
-| ![](assets/smart_scribe(urdu).png) | ![](assets/smart_scribe(urdu_cont.).png) |
+| ![](assets/smart_scribe_urdu.png) | ![](assets/smart_scribe_urdu_cont..png) |
 ### Pathogen Navigator
 ![Pathogen Navigator](assets/pathogen_navigator.png)
 
